@@ -1,0 +1,13 @@
+# Datos y artefactos privados
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secretos/
+privado/
+documentos-personales/
+certificados-personales/
+__pycache__/
+.DS_Store
+Thumbs.db

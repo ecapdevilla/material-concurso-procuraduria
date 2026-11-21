@@ -1,0 +1,25 @@
+{
+  "fecha": "2026-11-21",
+  "tipo": "complemento no destructivo",
+  "repositorio": "https://github.com/ecapdevilla/material-concurso-procuraduria",
+  "archivos": [
+    ".gitignore",
+    "CONTRIBUTING.md",
+    "COMANDOS-INTEGRACION.md",
+    "LEEME-PRIMERO.md",
+    "CHANGELOG.md",
+    "AUDITORIA.md",
+    "03-temario/MAPA_COMPETENCIAS.md",
+    "05-plan-estudio/PLAN_8_SEMANAS.md",
+    "07-pendientes/SEGUIMIENTO.md",
+    "01-fuentes-oficiales/CATALOGO.md",
+    "01-fuentes-oficiales/CONTROL_VERSIONES.csv",
+    "08-estudio-general/PLANTILLA_SESION.md",
+    "06-banco-practica/preguntas_ejemplo.csv",
+    "06-banco-practica/README.md",
+    "09-simulacros/registro_resultados.csv",
+    "09-simulacros/GUIA.md",
+    "02-normas/MATRIZ_NORMATIVA.md",
+    "04-valoracion-antecedentes/GUIA.md"
+  ]
+}

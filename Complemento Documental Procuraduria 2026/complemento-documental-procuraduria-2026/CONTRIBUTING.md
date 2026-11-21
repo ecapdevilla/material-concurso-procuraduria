@@ -1,0 +1,2 @@
+# Cómo colaborar
+Usar cambios pequeños: 1 norma o documento por commit. Citar fuente oficial y fecha, comprobar enlaces, pasar corrector ortográfico, no guardar PDFs con derechos de terceros ni datos privados. Para cambio de contenido jurídico, explicar qué se derogó/modificó. Propuesta de ramas: `docs/tema`, `fix/norma`, `quiz/bloque`. Todo PR debe incluir resumen, enlaces oficiales y lista de archivos afectados.
